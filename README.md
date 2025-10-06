@@ -42,5 +42,5 @@ Our project involved engineering a rover prototype capable of navigating complex
 
 **Prototype 2 (Click on image to play the video)**.
   
-[![Project Video](images/Prototype_2.jpg)](https://drive.google.com/file/d/1SGig9JHE7UdSr4B0MpWxnoHgKGTtpPFD/view?usp=sharing) 
+[![Project Video](image/Prototype_2.jpg)](https://drive.google.com/file/d/1SGig9JHE7UdSr4B0MpWxnoHgKGTtpPFD/view?usp=sharing) 
 
