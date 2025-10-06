@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and documentation for our team's participation in the **ISRO IRoC Rover Challenge 2024**. We are a group of enthusiastic engineers from **IIT Jodhpur**, and our project involved creating a highly functional rover with advanced object detection and path planning capabilities. We are proud to have finished in the **top 20 positions nationwide**.
+This repository contains the code and documentation for our team's participation in the **ISRO IRoC Rover Challenge 2024**. We are a group of enthusiastic engineers from **IIT Jodhpur**, and our project involved creating a highly functional rover with advanced object detection and path planning capabilities. 
 
 ## Project Description
 
